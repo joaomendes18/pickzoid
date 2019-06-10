@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560206036272,
+  "timestamp": 1560206809395,
   "index": "/pickzoid/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/pickzoid/favicon.ico",
         "/pickzoid/index.html",
-        "/pickzoid/main.e207d3339913c0a80d50.js",
+        "/pickzoid/main.0782cf56797204641ebd.js",
         "/pickzoid/polyfills-es5.613d1909ec381c0aefb7.js",
         "/pickzoid/polyfills.366aac02232b602daed7.js",
         "/pickzoid/runtime.741402d1d47331ce975c.js",
@@ -48,8 +48,8 @@
     "/pickzoid/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/pickzoid/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/pickzoid/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pickzoid/index.html": "057d16db1b36b0fb9649b559f307617ad08c44ae",
-    "/pickzoid/main.e207d3339913c0a80d50.js": "9c171423000ed260b47b94eea8d377ce3365fcc8",
+    "/pickzoid/index.html": "c5759cc7cdb1164a57afa23a78b2d1d349e3e55a",
+    "/pickzoid/main.0782cf56797204641ebd.js": "95f523bcec88bcc7f1213fb38933acb76881897e",
     "/pickzoid/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
     "/pickzoid/polyfills.366aac02232b602daed7.js": "df37fb9005533e7beafa8777055b120733793167",
     "/pickzoid/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",

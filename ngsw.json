@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560182642003,
+  "timestamp": 1560189990541,
   "index": "/pickzoid/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/pickzoid/favicon.ico",
         "/pickzoid/index.html",
-        "/pickzoid/main.44c9c6ca2bf8d9cb2d28.js",
+        "/pickzoid/main.bcc17057dd966832ac89.js",
         "/pickzoid/polyfills-es5.613d1909ec381c0aefb7.js",
         "/pickzoid/polyfills.366aac02232b602daed7.js",
         "/pickzoid/runtime.741402d1d47331ce975c.js",
@@ -23,6 +23,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/pickzoid/assets/audio/bip.wav",
         "/pickzoid/assets/icons/icon-128x128.png",
         "/pickzoid/assets/icons/icon-144x144.png",
         "/pickzoid/assets/icons/icon-152x152.png",
@@ -37,6 +38,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/pickzoid/assets/audio/bip.wav": "aae49e8a12629eaf3eaef0ea0a57bd346fd5202b",
     "/pickzoid/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/pickzoid/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/pickzoid/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -46,8 +48,8 @@
     "/pickzoid/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/pickzoid/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/pickzoid/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pickzoid/index.html": "215a26bb51d6e77ee158367d604186448e2b29d2",
-    "/pickzoid/main.44c9c6ca2bf8d9cb2d28.js": "01737bf859a9c38f3218832b563e2b95440e264c",
+    "/pickzoid/index.html": "5230aba8600cd7df846e405c8be1316715b86c36",
+    "/pickzoid/main.bcc17057dd966832ac89.js": "6172aebebd8c2f129d4e670d99eefdc371c19874",
     "/pickzoid/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
     "/pickzoid/polyfills.366aac02232b602daed7.js": "df37fb9005533e7beafa8777055b120733793167",
     "/pickzoid/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",

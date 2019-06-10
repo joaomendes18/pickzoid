@@ -3,8 +3,8 @@
   "short_name": "pickzoid",
   "theme_color": "#77b3ee",
   "background_color": "#fafafa",
-  "display": "standalone",
-  "scope": "/",
+  "display": "fullscreen",
+  "scope": "/pickzoid/",
   "start_url": "https://joaomendes82.github.io/pickzoid/",
   "icons": [{
       "src": "assets/icons/icon-72x72.png",

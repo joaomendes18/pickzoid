@@ -1,7 +1,7 @@
 {
   "name": "pickzoid",
   "short_name": "pickzoid",
-  "theme_color": "#77b3ee",
+  "theme_color": "#faaf18",
   "background_color": "#fafafa",
   "display": "fullscreen",
   "scope": "/pickzoid/",

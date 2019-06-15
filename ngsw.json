@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560206809395,
+  "timestamp": 1560615483317,
   "index": "/pickzoid/index.html",
   "assetGroups": [
     {
@@ -39,14 +39,14 @@
   "dataGroups": [],
   "hashTable": {
     "/pickzoid/assets/audio/bip.wav": "aae49e8a12629eaf3eaef0ea0a57bd346fd5202b",
-    "/pickzoid/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/pickzoid/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/pickzoid/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/pickzoid/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/pickzoid/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/pickzoid/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/pickzoid/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/pickzoid/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/pickzoid/assets/icons/icon-128x128.png": "260c936e162814a5d61c7fdae335b81e9879908a",
+    "/pickzoid/assets/icons/icon-144x144.png": "276ab0301cb60e1ce382f501742ee06bb5028934",
+    "/pickzoid/assets/icons/icon-152x152.png": "a8154c94360348823ac0764a45c065f274ddeff5",
+    "/pickzoid/assets/icons/icon-192x192.png": "eb192cde81146f0e3606de43d6f7af69598d8291",
+    "/pickzoid/assets/icons/icon-384x384.png": "f6da67de53476e1c0ef98c5911a2a2759fff19bd",
+    "/pickzoid/assets/icons/icon-512x512.png": "45ede9d85e5d3762a17e49ada4908d3075c72f43",
+    "/pickzoid/assets/icons/icon-72x72.png": "48f577daf2b5c386085e0409ed0e7979f1ad8d35",
+    "/pickzoid/assets/icons/icon-96x96.png": "7e881340f29a5cef1da3541aa9509b6659f39eaa",
     "/pickzoid/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/pickzoid/index.html": "c5759cc7cdb1164a57afa23a78b2d1d349e3e55a",
     "/pickzoid/main.0782cf56797204641ebd.js": "95f523bcec88bcc7f1213fb38933acb76881897e",

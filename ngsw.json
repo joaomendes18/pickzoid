@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560615483317,
+  "timestamp": 1561590761922,
   "index": "/pickzoid/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/pickzoid/favicon.ico",
         "/pickzoid/index.html",
-        "/pickzoid/main.0782cf56797204641ebd.js",
+        "/pickzoid/main.53fb10461e820711ec79.js",
         "/pickzoid/polyfills-es5.613d1909ec381c0aefb7.js",
         "/pickzoid/polyfills.366aac02232b602daed7.js",
         "/pickzoid/runtime.741402d1d47331ce975c.js",
@@ -47,9 +47,9 @@
     "/pickzoid/assets/icons/icon-512x512.png": "45ede9d85e5d3762a17e49ada4908d3075c72f43",
     "/pickzoid/assets/icons/icon-72x72.png": "48f577daf2b5c386085e0409ed0e7979f1ad8d35",
     "/pickzoid/assets/icons/icon-96x96.png": "7e881340f29a5cef1da3541aa9509b6659f39eaa",
-    "/pickzoid/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pickzoid/index.html": "c5759cc7cdb1164a57afa23a78b2d1d349e3e55a",
-    "/pickzoid/main.0782cf56797204641ebd.js": "95f523bcec88bcc7f1213fb38933acb76881897e",
+    "/pickzoid/favicon.ico": "687957601ea14df525dbb07582b270797e3bcc19",
+    "/pickzoid/index.html": "12238fc2c995303d02dc8434a2ebe37903d9012f",
+    "/pickzoid/main.53fb10461e820711ec79.js": "94771f8e7c623aec7f4e32121b055676bbe1e6f3",
     "/pickzoid/polyfills-es5.613d1909ec381c0aefb7.js": "e3aac0d6ebd3f9f1286da2a0bbb8631c4642986c",
     "/pickzoid/polyfills.366aac02232b602daed7.js": "df37fb9005533e7beafa8777055b120733793167",
     "/pickzoid/runtime.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
